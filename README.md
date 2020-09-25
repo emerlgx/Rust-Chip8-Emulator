@@ -32,3 +32,5 @@ Keyboard inputs on the left correspond to the CHIP-8 keypad on the right
 |Z|X|C|V|   |A|0|B|F|
 |-------|   |-------|
 ```
+Press Space to pause.
+Press Esc to quit.
